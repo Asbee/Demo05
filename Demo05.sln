@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim1", "Esim1\Esim1.csproj", "{7F8CB96C-99E6-4EB9-8B64-41BEE739DFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "T1\T1.csproj", "{08E22C4D-B6D2-4A98-8F0C-DB145201B54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT4", "KT4\KT4.csproj", "{D56A7C73-BB51-4C09-8E2D-680821DC7211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8CB96C-99E6-4EB9-8B64-41BEE739DFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CB96C-99E6-4EB9-8B64-41BEE739DFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CB96C-99E6-4EB9-8B64-41BEE739DFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CB96C-99E6-4EB9-8B64-41BEE739DFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E22C4D-B6D2-4A98-8F0C-DB145201B54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E22C4D-B6D2-4A98-8F0C-DB145201B54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E22C4D-B6D2-4A98-8F0C-DB145201B54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E22C4D-B6D2-4A98-8F0C-DB145201B54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56A7C73-BB51-4C09-8E2D-680821DC7211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56A7C73-BB51-4C09-8E2D-680821DC7211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56A7C73-BB51-4C09-8E2D-680821DC7211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56A7C73-BB51-4C09-8E2D-680821DC7211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
